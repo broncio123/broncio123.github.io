@@ -1,20 +1,16 @@
-p {
-    text-align: justify;
-    color: #002147;
+body {
+    background-color: rgba(110, 39, 61, 0.1);
 }
 
-h1 {
-    color: #002147;
-}
 
 a:link {
-    color: green;
+    color: blue;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:visited {
-    color: pink;
+    color: rgb(100,100,100);
     background-color: transparent;
     text-decoration: none;
   }
@@ -26,7 +22,13 @@ a:link {
   }
   
   a:active {
-    color: yellow;
+    color: red;
     background-color: transparent;
     text-decoration: underline;
+  }
+
+  #toprows {
+    background-color:#002147;
+    border: 5px solid #ffffff;
+    
   }
