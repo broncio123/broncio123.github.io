@@ -10,13 +10,13 @@ a:link {
   }
   
   a:visited {
-    color: rgb(100,100,100);
+    color: rgb(150,150,150);
     background-color: transparent;
     text-decoration: none;
   }
   
   a:hover {
-    color: red;
+    color: rgba(110, 39, 61, 1);
     background-color: transparent;
     text-decoration: underline;
   }
@@ -27,8 +27,6 @@ a:link {
     text-decoration: underline;
   }
 
-  #toprows {
-    background-color:#002147;
-    border: 5px solid #ffffff;
-    
+  .toprows {
+    background-color:#002147;    
   }
