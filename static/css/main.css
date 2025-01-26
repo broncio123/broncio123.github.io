@@ -4,7 +4,7 @@ body {
 
 
 a:link {
-    color: blue;
+    color: #2a9df4;
     background-color: transparent;
     text-decoration: none;
   }
@@ -28,5 +28,6 @@ a:link {
   }
 
   .toprows {
-    background-color:#002147;    
+    background-color:#002147;
+    margin: auto;    
   }
